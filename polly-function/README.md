@@ -2,7 +2,7 @@
 
 ## Instalação
 
-###AWS Lambda
+### AWS Lambda
 
 Configurar as seguintes variáveis de ambiente:
 
@@ -37,7 +37,7 @@ Para EN-US
 	
 	ARN do Tópico
 	
-###Passo a Passo
+### Passo a Passo
 
 1. Criar Amazon S3 Bucket de Entrada
 2. Criar Amazon S3 Bucket de Saída para os áudios
