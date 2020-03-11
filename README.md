@@ -44,7 +44,8 @@ Para EN-US
 3. Criar o tópico SNS e inserir uma subscrição de E-mail
 4. Criar a AWS Lambda e configurar as varíaveis de Ambiente
 5. Configurar trigger com o Amazon S3 Bucket de Entrada
-6. Subir Arquivo XML utilizando escrito com Speech Synthesis Markup Language (SSML)
+6. Configurar as Permissões para SNS, S3 e Polly.
+7. Subir Arquivo XML escrito com Speech Synthesis Markup Language (SSML)
 
 ### SSML (Speech Synthesis Markup Language)
 
