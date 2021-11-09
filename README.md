@@ -14,9 +14,9 @@ arb | cmn-CN | cy-GB | da-DK | de-DE | en-AU | en-GB | en-GB-WLS | en-IN | en-US
 
 Para PT-BR: 
 
-	Vitória, Female
-	Camila, Female
-	Ricardo, Male
+	Vitória
+	Camila
+	Ricardo
 	
 Para EN-US
 
