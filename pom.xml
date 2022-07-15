@@ -11,7 +11,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<aws.lambda.java.core.version>1.2.0</aws.lambda.java.core.version>
 		<aws.polly.java.core.version>1.11.741</aws.polly.java.core.version>
-		<aws.s3.java.core.version>1.11.741</aws.s3.java.core.version>
+		<aws.s3.java.core.version>1.12.261</aws.s3.java.core.version>
 		<aws.sns.java.core.version>1.11.741</aws.sns.java.core.version>
 		<aws.lambda.java.events.version>2.2.7</aws.lambda.java.events.version>
 	</properties>
